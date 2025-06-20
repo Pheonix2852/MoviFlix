@@ -1,12 +1,37 @@
-# React + Vite
+# 🎬 MoviFlix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MoviFlix is a modern, responsive Movie App built with **React.js**, powered by **Appwrite** for backend services, and styled using **Tailwind CSS**. It allows users to browse, search, and discover trending movies using the **Open Movie Database (OMDb) API**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Live Preview**: [http://moviflix2852.netlify.app/](http://moviflix2852.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🤖 Introduction
+
+Built with a modern frontend stack and leveraging the OMDb API, MoviFlix offers users an elegant platform to explore a wide selection of movies. Whether you're browsing what's trending or searching by title, the app delivers a smooth and fast experience.
+
+---
+
+## ⚙️ Tech Stack
+
+- **React.js** – Reusable components & SPA architecture.
+- **Tailwind CSS** – Utility-first styling for rapid UI development.
+- **Appwrite** – Backend-as-a-Service (authentication, database, and storage).
+- **OMDb API** – Source of movie data.
+- **React-use** – Simplifies React state and side effects with useful hooks.
+- **Vite** – Lightning-fast build tool with hot module replacement.
+
+---
+
+## 🔋 Features
+
+- 🔍 **Search Movies** – Quickly find movies by title via the OMDb API.
+- 🎞️ **Browse All Movies** – Explore a catalog of movie content.
+- 📈 **Trending Algorithm** – Highlights trending titles dynamically.
+- 💻 **Responsive Design** – Optimized for desktop, tablet, and mobile.
+- 🧠 **Clean Code Architecture** – Modular and reusable component structure.
+- 🌐 **Modern UI/UX** – Minimalistic and user-focused interface.
+
+---
